@@ -1,2 +1,3 @@
-# github-page-playground
+# GitHub pages with Jekyll
+
 Trying github pages
