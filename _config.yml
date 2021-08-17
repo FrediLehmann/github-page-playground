@@ -32,8 +32,7 @@ twitter_username: OneBugMan
 github_username:  FrediLehmann
 
 # Build settings
-# remote_theme: pages-themes/minimal@v0.2.0
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
